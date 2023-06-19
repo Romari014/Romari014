@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Roman
 - 👀 I’m interested in fron-end development
-- 🌱 I’m currently learning JS Framework React
+- 🌱 I’m currently learning JS library React
 - 💞️ I’m looking to collaborate with team of developers 
 
 
